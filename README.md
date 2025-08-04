@@ -2,7 +2,7 @@
 Lua-lgi/Gtk based GUI for controlling a USB hub with [uhubctl](https://github.com/mvp/uhubctl)
 
 ## Screenshot
-<img width="190" height="298" alt="usbctl" src="https://github.com/user-attachments/assets/9bf77da4-d228-4455-812e-8467bb02e507" />
+<img width="190" height="298" alt="usbctl" src="https://github.com/user-attachments/assets/b36764fa-9b40-4b3d-ab9c-bb9c1b741d9d" />
 
 ## Requirements
 * lua-lgi
